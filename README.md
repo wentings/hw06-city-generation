@@ -4,7 +4,7 @@ Wendy Sun
 
 wentings
 
-Project Demo: 
+Project Demo: Somehow I have some problems with building so the demo link doesn't work
 
 
 Features:
